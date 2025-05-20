@@ -8,7 +8,7 @@ Go DB is unique because it's a **unified platform**. It combines a high-performa
 
 This guide focuses on using the RESTful HTTP API.
 
-## Python SDK
+## Python, JavaScript/TypeScript SDK
 https://github.com/sumeetingenuity/go_db_pythonsdk.git
 
 ## Getting Started
