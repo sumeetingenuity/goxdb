@@ -8,6 +8,9 @@ Go DB is unique because it's a **unified platform**. It combines a high-performa
 
 This guide focuses on using the RESTful HTTP API.
 
+## Python SDK
+https://github.com/sumeetingenuity/go_db_pythonsdk.git
+
 ## Getting Started
 
 1.  **Prerequisites:** Ensure you have Go installed and the necessary dependencies for Go DB.
